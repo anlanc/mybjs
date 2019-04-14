@@ -82,6 +82,7 @@ public class BlackjackSolitaire {
 		
 		System.out.println("---- You final score is: ----> " + bd.calculateScore());
 		System.out.println("^_^ Good Job!!! Thank you, bye!");
+		System.out.println("Jessica added a line")
 
 		userIn.close();
 	}
