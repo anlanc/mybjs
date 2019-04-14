@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
-//Jessica add a line here for github practice
+//dont add line here Jessica
 
 public class Deck {
 	ArrayList<Card> deckList = new ArrayList<Card>();
